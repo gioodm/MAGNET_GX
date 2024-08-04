@@ -15,3 +15,16 @@ Final assignment
 ### Author 
 Giorgia Del Missier \
 i6292403
+
++
+
+## Cardiac Energy Metabolism Analysis
+
+Understanding sex-related differences in cardiac energy metabolism through genome-scale metabolic models in patients with dilated cardiomyopathy
+PRO4002 - Final assignment
+
+### Authors
+Giorgia Del Missier
+Hannah Schultheiß
+Michal Skawinski
+Xenia Sterl
