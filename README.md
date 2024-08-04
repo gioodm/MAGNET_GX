@@ -20,7 +20,7 @@ i6292403
 
 ## Cardiac Energy Metabolism Analysis
 
-Understanding sex-related differences in cardiac energy metabolism through genome-scale metabolic models in patients with dilated cardiomyopathy
+Understanding sex-related differences in cardiac energy metabolism through genome-scale metabolic models in patients with dilated cardiomyopathy  
 PRO4002 - Final assignment
 
 ### Authors
