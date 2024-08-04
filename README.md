@@ -24,7 +24,7 @@ Understanding sex-related differences in cardiac energy metabolism through genom
 PRO4002 - Final assignment
 
 ### Authors
-Giorgia Del Missier
-Hannah Schultheiß
-Michal Skawinski
+Giorgia Del Missier  
+Hannah Schultheiß  
+Michal Skawinski  
 Xenia Sterl
